@@ -1,15 +1,8 @@
 ![0 NdW_k0hpjkSC1AX8](https://github.com/shradha-2022/shradha-2022/assets/91013212/d5087a8f-8aa2-48fb-97ad-4eac4bf6abbc)
 
-<h1 align="center">Hi 👋, I'm Shradha Guttedar</h1>
+<h1 align="center">Hi 😀, I'm Shradha Guttedar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="220" src="https://media4.giphy.com/media/YbXLZ6dymH758xSEbM/giphy.gif?cid=ecf05e4714f2l4vanffbtazejjqcdrw27nf5v0bdi1i5roes&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-
-- 🔭 I’m currently working on **Image Recognition project using Ai**
-
-- 🌱 I’m currently learning **Tensorflow.**
-
-<h1 align="center">Hi 👋, I'm Shradha Guttedar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on **Image Recognition project using Ai**
 
@@ -23,7 +16,7 @@
 
 - 📫 How to reach me **guttedarshradha@gmail.com**
 
-- ⚡ Fun fact **My mom calls me panda**
+- ⚡ Fun fact **My mom calls me panda 🐼**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
