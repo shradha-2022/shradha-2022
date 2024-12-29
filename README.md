@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **guttedarshradha@gmail.com**
 
-- ⚡ Fun fact **My mom calls me panda 🐼**
+- ⚡ Fun fact **I code and play basketball – teamwork everywhere!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
